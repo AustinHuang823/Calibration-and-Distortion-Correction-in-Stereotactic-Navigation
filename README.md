@@ -1,4 +1,4 @@
-# Project Overview: Advanced Calibration and Distortion Correction
+# Project Overview: Calibration and Distortion Correction in Stereotactic Navigation
 
 ## Introduction
 This project, conducted at the Laboratory for Computational Sensing and Robotics (LCSR) at Johns Hopkins University, focused on advanced calibration techniques and distortion correction within stereotactic navigation systems. Utilizing a combination of 1D, 2D, and 3D interpolation techniques alongside Bezier curves and volumes, we aimed to enhance the precision of tip location determination in CT frames, crucial for medical applications.

@@ -16,5 +16,7 @@ We addressed several challenges, including handling distorted data and ensuring 
 ## Note
 Please note that the code and detailed materials related to this project are not publicly available due to the class's rule prohibiting the public sharing of assignment solutions.
 
+For further inquiries or discussion on the project's concepts and methodologies, please reach out through academic channels or direct communication.
+
 ## Conclusion
 This project not only demonstrated the application of complex mathematical concepts to practical problems but also pushed the boundaries of what's achievable in robotic navigation and medical imaging.
